@@ -1,6 +1,5 @@
-<h2> Outline of automation</h2>
+<h2>Outline of automation</h2>
 <p><strong><a title="Automation" href="https://en.wikipedia.org/wiki/Automation">Automation</a></strong>&nbsp;&ndash; use of&nbsp;<a title="Control system" href="https://en.wikipedia.org/wiki/Control_system">control systems</a>&nbsp;and&nbsp;<a title="Information technology" href="https://en.wikipedia.org/wiki/Information_technology">information technologies</a>&nbsp;to reduce the need for human work in the production of goods and services. In the scope of&nbsp;<a class="mw-redirect" title="Industrialization" href="https://en.wikipedia.org/wiki/Industrialization">industrialization</a>, automation is a step beyond&nbsp;<a title="Mechanization" href="https://en.wikipedia.org/wiki/Mechanization">mechanization</a>.</p>
-</br>
 <h2 id="mw-toc-heading">Contents</h2>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Essence_of_automation"><span class="toctext">Essence of automation</span></a></li>
@@ -15,7 +14,6 @@
 <li class="toclevel-1 tocsection-11"><a href="#Automation-related_organizations"><span class="toctext">Automation-related organizations</span></a></li>
 <li class="toclevel-1 tocsection-12"><a href="#Persons_influential_in_the_field_of_automation"><span class="toctext">Persons influential in the field of automation</span></a></li>
 </ul>
-</br>
 <h2><span id="Essence_of_automation" class="mw-headline">Essence of automation</span></h2>
 <ul>
 <li><a title="Control system" href="https://en.wikipedia.org/wiki/Control_system">Control system</a>&nbsp;&ndash; a device, or set of devices to manage, command, direct or regulate the behavior of other devices or system.</li>
@@ -103,77 +101,4 @@
 <li><a title="OPC Foundation" href="https://en.wikipedia.org/wiki/OPC_Foundation">OPC Foundation</a>&nbsp;&ndash;</li>
 </ul>
 <h2><span id="Persons_influential_in_the_field_of_automation" class="mw-headline">Persons influential in the field of automation</span></h2>
-<p><a title="James S. Albus" href="https://en.wikipedia.org/wiki/James_S._Albus">James S. Albus</a>&nbsp;&ndash; a US government engineer and a prolific pioneering inventor of intelligent systems, automation and robotics. Also wrote extensively on the impact of automation on jobs, incomes, well-being and prosperity</p>
-<h2><span id="See_also" class="mw-headline">See also</span></h2>
-<ul>
-<li><a title="Outline of robotics" href="https://en.wikipedia.org/wiki/Outline_of_robotics">Outline of robotics</a></li>
-<li><a class="mw-redirect" title="Circuit theory" href="https://en.wikipedia.org/wiki/Circuit_theory">Circuit theory</a>&nbsp;&ndash;</li>
-<li><a class="mw-redirect" title="Analog electronics" href="https://en.wikipedia.org/wiki/Analog_electronics">Analog electronics</a>&nbsp;&ndash;</li>
-<li><a title="Digital electronics" href="https://en.wikipedia.org/wiki/Digital_electronics">Digital electronics</a>&nbsp;&ndash; represent signals by discrete bands of analog levels, rather than by a continuous range.</li>
-<li><a title="Power electronics" href="https://en.wikipedia.org/wiki/Power_electronics">Power electronics</a>&nbsp;&ndash; the application of solid-state electronics for the control and conversion of electric power.</li>
-<li><a title="Electromagnetic field" href="https://en.wikipedia.org/wiki/Electromagnetic_field">Electromagnetic field</a>&nbsp;&ndash; (also EMF or EM field) is a physical field produced by moving electrically charged objects.</li>
-<li><a title="Electrical measurements" href="https://en.wikipedia.org/wiki/Electrical_measurements">Electrical measurements</a>&nbsp;&ndash; are the methods, devices and calculations used to measure electrical quantities.</li>
-<li><a title="Electric motor" href="https://en.wikipedia.org/wiki/Electric_motor">Electric motor</a>&nbsp;&ndash; an electromechanical device that converts electrical energy into mechanical energy.</li>
-<li><a title="Control theory" href="https://en.wikipedia.org/wiki/Control_theory">Control theory</a>&nbsp;&ndash; a Multi-disciplinary Engineering|interdisciplinary branch of engineering and mathematics that deals with the behavior of dynamical systems.</li>
-<li><a title="Microcomputer" href="https://en.wikipedia.org/wiki/Microcomputer">Microcomputer</a>&nbsp;&ndash; a computer with a microprocessor as its central processing unit.</li>
-<li><a title="Regulator (automatic control)" href="https://en.wikipedia.org/wiki/Regulator_(automatic_control)">Regulator</a>&nbsp;&ndash;</li>
-<li><a title="Electronic speed control" href="https://en.wikipedia.org/wiki/Electronic_speed_control">Electronic speed control</a>&nbsp;&ndash; or ESC is an electronic circuit with the purpose to vary an electric motor's speed, its direction and possibly also to act as a dynamic brake.</li>
-<li><a title="Computer simulation" href="https://en.wikipedia.org/wiki/Computer_simulation">Computer simulation</a>&nbsp;&ndash; a computer model, or a computational model is a computer program, or network of computers, that attempts to simulate an abstract model of a particular system.</li>
-<li><a title="Linear system" href="https://en.wikipedia.org/wiki/Linear_system">Linear system</a>&nbsp;&ndash; a mathematical model of a system based on the use of a linear operator.</li>
-<li><a class="mw-redirect" title="Electrical CAD" href="https://en.wikipedia.org/wiki/Electrical_CAD">Electrical CAD</a>&nbsp;&ndash; software packages that allow an electrical engineer to create and manage electrical schematics.</li>
-<li><a class="mw-redirect" title="Fuzzy control" href="https://en.wikipedia.org/wiki/Fuzzy_control">Fuzzy control</a>&nbsp;&ndash;</li>
-<li><a title="Neural network" href="https://en.wikipedia.org/wiki/Neural_network">Neural network</a>&nbsp;&ndash; was traditionally used to refer to a network or circuit of biological neurons.</li>
-<li><a title="Servo drive" href="https://en.wikipedia.org/wiki/Servo_drive">Servo drive</a>&nbsp;&ndash; a special electronic amplifier used to power electric servomechanisms.</li>
-<li><a title="Semi-automation" href="https://en.wikipedia.org/wiki/Semi-automation">Semi-automation</a>;</li>
-</ul>
-<dl>
-<dt>Place these</dt>
-</dl>
-<ul>
-<li><a class="mw-redirect" title="Trade shows" href="https://en.wikipedia.org/wiki/Trade_shows">Trade shows</a></li>
-<li><a class="mw-redirect" title="ASP-DAC" href="https://en.wikipedia.org/wiki/ASP-DAC">ASP-DAC</a></li>
-<li><a title="Design Automation Conference" href="https://en.wikipedia.org/wiki/Design_Automation_Conference">DAC</a></li>
-<li><a title="Design Automation and Test in Europe" href="https://en.wikipedia.org/wiki/Design_Automation_and_Test_in_Europe">DATE</a></li>
-<li><a class="mw-redirect" title="ICCAD" href="https://en.wikipedia.org/wiki/ICCAD">ICCAD</a></li>
-</ul>
-<p>Awards</p>
-<ul>
-<li><a title="IEEE Robotics and Automation Award" href="https://en.wikipedia.org/wiki/IEEE_Robotics_and_Automation_Award">IEEE Robotics and Automation Award</a></li>
-<li><a class="mw-redirect" title="Robots" href="https://en.wikipedia.org/wiki/Robots">Robots</a>
-<ul>
-<li><a title="Industrial robot" href="https://en.wikipedia.org/wiki/Industrial_robot">Industrial robot</a></li>
-<li><a title="Autonomous research robot" href="https://en.wikipedia.org/wiki/Autonomous_research_robot">Autonomous research robot</a></li>
-<li><a title="Domestic robot" href="https://en.wikipedia.org/wiki/Domestic_robot">Domestic robot</a></li>
-</ul>
-</li>
-</ul>
-<p>General purpose</p>
-<ul>
-<li><a title="Home automation" href="https://en.wikipedia.org/wiki/Home_automation">Home automation</a></li>
-<li><a class="mw-redirect" title="Banking automation" href="https://en.wikipedia.org/wiki/Banking_automation">Banking automation</a></li>
-<li><a title="Laboratory automation" href="https://en.wikipedia.org/wiki/Laboratory_automation">Laboratory automation</a></li>
-<li><a title="Integrated library system" href="https://en.wikipedia.org/wiki/Integrated_library_system">Integrated library system</a></li>
-<li><a class="mw-redirect" title="Database automation" href="https://en.wikipedia.org/wiki/Database_automation">Database automation</a></li>
-<li><a title="Broadcast automation" href="https://en.wikipedia.org/wiki/Broadcast_automation">Broadcast automation</a></li>
-<li><a class="mw-redirect" title="Console automation" href="https://en.wikipedia.org/wiki/Console_automation">Console automation</a></li>
-<li><a title="Building automation" href="https://en.wikipedia.org/wiki/Building_automation">Building automation</a></li>
-</ul>
-<p>Specific purpose</p>
-<ul>
-<li><a title="Automated attendant" href="https://en.wikipedia.org/wiki/Automated_attendant">Automated attendant</a></li>
-<li><a title="Automated guided vehicle" href="https://en.wikipedia.org/wiki/Automated_guided_vehicle">Automated guided vehicle</a></li>
-<li><a class="mw-redirect" title="Automated highway system" href="https://en.wikipedia.org/wiki/Automated_highway_system">Automated highway system</a></li>
-<li><a title="Automated pool cleaner" href="https://en.wikipedia.org/wiki/Automated_pool_cleaner">Automated pool cleaner</a></li>
-<li><a title="Automated teller machine" href="https://en.wikipedia.org/wiki/Automated_teller_machine">Automated teller machine</a></li>
-<li><a class="mw-redirect" title="Automatic painting (robotic)" href="https://en.wikipedia.org/wiki/Automatic_painting_(robotic)">Automatic painting (robotic)</a></li>
-<li><a title="Pop music automation" href="https://en.wikipedia.org/wiki/Pop_music_automation">Pop music automation</a></li>
-<li><a title="Robotic lawn mower" href="https://en.wikipedia.org/wiki/Robotic_lawn_mower">Robotic lawn mower</a></li>
-<li><a title="Telephone switchboard" href="https://en.wikipedia.org/wiki/Telephone_switchboard">Telephone switchboard</a></li>
-<li><a title="Vending machine" href="https://en.wikipedia.org/wiki/Vending_machine">Vending machine</a></li>
-</ul>
-<p>Social movements</p>
-<ul>
-<li><a title="Technocracy movement" href="https://en.wikipedia.org/wiki/Technocracy_movement">Technocracy movement</a></li>
-<li><a title="Jacque Fresco" href="https://en.wikipedia.org/wiki/Jacque_Fresco">Venus Project</a></li>
-<li><a class="mw-redirect" title="Zeitgeist Movement" href="https://en.wikipedia.org/wiki/Zeitgeist_Movement">Zeitgeist Movement</a></li>
-</ul>
+<p><a title="James S. Albus" href="https://en.wikipedia.org/wiki/James_S._Albus">James S. Albus</a>&nbsp;&ndash; a US government engineer and a prolific pioneering inventor of intelligent systems, automation and robotics. Also wrote extensively on the impact of automation on jobs, incomes, well-being and prosperity.</p>
